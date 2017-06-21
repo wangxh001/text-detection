@@ -1,0 +1,2 @@
+%YAML:1.0
+result: "暴\n、J]\n襄\nI\\\n尖\n\n"

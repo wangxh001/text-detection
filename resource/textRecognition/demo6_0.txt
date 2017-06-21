@@ -1,0 +1,2 @@
+%YAML:1.0
+result: "消\n防\n通\n道\n\n"
