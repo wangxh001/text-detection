@@ -3,7 +3,7 @@
 #include<fstream>
 #include"textDetection.h"
 #include"tools.h"
-#define N 6
+#define N 4
 
 using namespace std;
 using namespace cv;
